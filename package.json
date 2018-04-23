@@ -5,6 +5,8 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jest": "^4.0.2",
     "jest": "^22.4.3"
   },
   "scripts": {
