@@ -1,0 +1,26 @@
+{
+  "name": "LearningJavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jest": "^4.0.2",
+    "jest": "^22.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitwtnb/LearningJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitwtnb/LearningJavaScript/issues"
+  },
+  "homepage": "https://github.com/kitwtnb/LearningJavaScript#readme"
+}
